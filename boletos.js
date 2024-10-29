@@ -1,4 +1,3 @@
-// 1. Declaración y asignación de variables
 let nombre = "Gabriel";
 let apellido = "Canellada";
 let edad = 23;
@@ -9,7 +8,6 @@ let horaPartido = "17:00";
 let numeroSilla = 45;
 let precioBoleto = 150.75
 
-// 2. Mostrar los valores asignados a cada variable
 console.log(`Nombre: ${nombre}`);
 console.log(`Apellido: ${apellido}`);
 console.log(`Edad: ${edad}`);
@@ -20,7 +18,6 @@ console.log(`Hora del Partido: ${horaPartido}`);
 console.log(`Número de Silla: ${numeroSilla}`);
 console.log(`Precio del Boleto: ${precioBoleto}`);
 
-// 3. Mostrar el tipo de dato de cada variable
 console.log(`Tipo de dato de nombre: ${typeof nombre}`);
 console.log(`Tipo de dato de apellido: ${typeof apellido}`);
 console.log(`Tipo de dato de edad: ${typeof edad}`);
